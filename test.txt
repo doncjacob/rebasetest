@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 "Don testing" 
 " Commit from main " 
 "Hello 1" 
 "Adding another statement" 
-=======
 "Hello 1" 
->>>>>>> Updates
